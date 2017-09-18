@@ -1,0 +1,7 @@
+C:\Users\TEMP.VLO30-05.001\Desktop\Uciekający przycisk\Uciekający przycisk\obj\x86\Debug\Uciekający_przycisk.Form1.resources
+C:\Users\TEMP.VLO30-05.001\Desktop\Uciekający przycisk\Uciekający przycisk\obj\x86\Debug\Uciekający_przycisk.Properties.Resources.resources
+C:\Users\TEMP.VLO30-05.001\Desktop\Uciekający przycisk\Uciekający przycisk\obj\x86\Debug\Uciekający przycisk.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-05.001\Desktop\Uciekający przycisk\Uciekający przycisk\bin\Debug\Uciekający przycisk.exe
+C:\Users\TEMP.VLO30-05.001\Desktop\Uciekający przycisk\Uciekający przycisk\bin\Debug\Uciekający przycisk.pdb
+C:\Users\TEMP.VLO30-05.001\Desktop\Uciekający przycisk\Uciekający przycisk\obj\x86\Debug\Uciekający przycisk.exe
+C:\Users\TEMP.VLO30-05.001\Desktop\Uciekający przycisk\Uciekający przycisk\obj\x86\Debug\Uciekający przycisk.pdb
